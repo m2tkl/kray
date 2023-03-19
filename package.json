@@ -1,7 +1,7 @@
 {
   "name": "kray",
-  "displayName": "kray",
-  "description": "",
+  "displayName": "Kray",
+  "description": "Gray-based theme that is kind on the eyes.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "m2tkl",
+        "label": "Kray Light",
         "uiTheme": "vs",
-        "path": "./themes/m2tkl-color-theme.json"
+        "path": "./themes/kray-light.json"
       }
     ]
   }
