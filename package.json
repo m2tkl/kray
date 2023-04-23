@@ -1,8 +1,14 @@
 {
   "name": "kray",
   "displayName": "Kray",
-  "description": "Gray-based theme that is kind on the eyes.",
+  "description": "Gray-based theme that is kind on the eyes for VS Code",
   "version": "0.0.1",
+  "publisher": "m2tkl",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m2tkl/kray.git"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
