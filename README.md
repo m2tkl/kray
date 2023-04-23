@@ -1,6 +1,6 @@
 # Kray
 
-Gray-based theme that is kand on the eyes for VS Code.
+Gray-based theme that is kind on the eyes for VS Code.
 
 ![image](./assets/image.png)
 
