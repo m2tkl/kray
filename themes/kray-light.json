@@ -90,7 +90,7 @@
 		"editorCursor.foreground": "#0969da",
 		"editorCursor.background": "#fff",
 		/* Editor Group */
-		"editorGroup.border": "#aeadab",
+		"editorGroup.border": "#c5c1bc",
 		"editorGroupHeader.tabsBackground": "#c9ccc9",
 		"editorGutter.addedBackground": "#4ac26b66",
 		"editorGutter.deletedBackground": "#ff818266",
@@ -167,7 +167,7 @@
 		/**
 		 * Panel
 		 */
-		"panel.border": "#ccc5c3",
+		"panel.border": "#aeadab",
 		"panelInput.border": "#ccc5c3",
 		"panelTitle.activeBorder": "#0062c2",
 		"panelTitle.activeForeground": "#5d5d5f",
