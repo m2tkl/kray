@@ -7,7 +7,7 @@
 		 */
 		"activityBar.activeBorder": "#0062cd",
 		"activityBar.background": "#c9ccc9",
-		"activityBar.border": "#aeadab",
+		"activityBar.border": "#bebdbb",
 		"activityBar.foreground": "#5d5d5f", // Default
 		"activityBar.inactiveForeground": "#57606a75",
 		"activityBarBadge.background": "#0969da",
@@ -91,6 +91,7 @@
 		"editorCursor.background": "#fff",
 		/* Editor Group */
 		"editorGroup.border": "#c5c1bc",
+		// "editorGroup.border": "#bebdbb",
 		"editorGroupHeader.tabsBackground": "#c9ccc9",
 		"editorGutter.addedBackground": "#4ac26b66",
 		"editorGutter.deletedBackground": "#ff818266",
@@ -103,11 +104,11 @@
 		"editorInlayHint.typeForeground": "#57606a",
 		"editorLineNumber.activeForeground": "#5d5d5f",
 		"editorLineNumber.foreground": "#8c959f75",
-		"editorOverviewRuler.border": "#ffffff",
+		"editorOverviewRuler.border": "#ffffff00",
 		"editorWhitespace.foreground": "#afb8c1",
 		/* Editor widget */
 		"editorWidget.background": "#f0e9e7",
-		"editorWidget.border": "#aeadab",
+		"editorWidget.border": "#bebdbb",
 		"editorHoverWidget.background": "#dcdad7",
 		"editorSuggestWidget.background": "#dcdad7",
 
@@ -124,12 +125,8 @@
 		"gitDecoration.submoduleResourceForeground": "#57606a",
 		"gitDecoration.untrackedResourceForeground": "#1a7f37",
 		"icon.foreground": "#57606a",
-		// "input.background": "#f0e9e7",
-		"input.background": "#dcdad7", // Editor
-		// "input.background": "#c9ccc9", // Original
-		// "input.background": "#353a3c",
+		"input.background": "#dcdad7",
 		"input.foreground": "#5d5d5f",
-		// "input.foreground": "#87909a",
 		"input.border": "#f0e9e700",
 		"input.placeholderForeground": "#6e7781",
 		"keybindingLabel.foreground": "#5d5d5f",
@@ -167,7 +164,7 @@
 		/**
 		 * Panel
 		 */
-		"panel.border": "#aeadab",
+		"panel.border": "#bebdbb",
 		"panelInput.border": "#ccc5c3",
 		"panelTitle.activeBorder": "#0062c2",
 		"panelTitle.activeForeground": "#5d5d5f",
@@ -196,9 +193,9 @@
 		 * Sidebar
 		 */
 		"sideBar.background": "#c9ccc9",
-		"sideBar.border": "#aeadab",
+		"sideBar.border": "#bebdbb",
 		"sideBarSectionHeader.background": "#c9ccc9",
-		"sideBarSectionHeader.border": "#aeadab",
+		"sideBarSectionHeader.border": "#bebdbb",
 		/**
 		 * StatusBar
 		 */
@@ -254,7 +251,7 @@
 		"tab.unfocusedInactiveBackground": "#c9ccc9",
 		"tab.unfocusedActiveBackground": "#dcdad7",
 		"tab.activeForeground": "#5d5d5f",
-		"tab.border": "#aeadab00",
+		"tab.border": "#bebdbb00",
 		"tab.hoverBackground": "#dcdad7",
 		"tab.inactiveBackground": "#c9ccc9",
 		"tab.inactiveForeground": "#57606a",
@@ -290,7 +287,7 @@
 		 */
 		"titleBar.activeBackground": "#c9ccc9",
 		"titleBar.activeForeground": "#87909a",
-		"titleBar.border": "#aeadab",
+		"titleBar.border": "#bebdbb",
 		"titleBar.inactiveBackground": "#c9ccc9",
 		"titleBar.inactiveForeground": "#87909a",
 
