@@ -5,7 +5,8 @@
 		/**
 		 * Activity bar
 		 */
-		"activityBar.activeBorder": "#0062cd",
+		"activityBar.activeBorder": "#0062cd00",
+		"activityBar.activeBackground": "#6ba0f950",
 		"activityBar.background": "#c9ccc9",
 		"activityBar.border": "#bebdbb",
 		"activityBar.foreground": "#5d5d5f", // Default
@@ -56,10 +57,13 @@
 		"diffEditor.insertedTextBackground": "#6fdd8b80",
 		"diffEditor.removedLineBackground": "#ffcecb4d",
 		"diffEditor.removedTextBackground": "#ff818266",
-		"dropdown.background": "#ffffff",
-		"dropdown.border": "#ccc5c3",
+		/**
+		 * Dropdown
+		 */
+		"dropdown.background": "#dcdad7",
+		"dropdown.border": "#bebdbb",
 		"dropdown.foreground": "#5d5d5f",
-		"dropdown.listBackground": "#ffffff",
+		"dropdown.listBackground": "#dcdad7",
 		/**
 		 * Editor
 		 */
@@ -115,6 +119,7 @@
 		"errorForeground": "#cf222e",
 		"focusBorder": "#ffffff00",
 		"foreground": "#5d5d5f",
+
 		"gitDecoration.addedResourceForeground": "#1a7f37",
 		// "gitDecoration.addedResourceForeground": "#31dd62",
 		"gitDecoration.conflictingResourceForeground": "#bc4c00",
@@ -155,7 +160,7 @@
 		 */
 		"notificationCenterHeader.background": "#f6f8fa",
 		"notificationCenterHeader.foreground": "#57606a",
-		"notifications.background": "#ffffff",
+		"notifications.background": "#dcdad7",
 		"notifications.border": "#ccc5c3",
 		"notifications.foreground": "#5d5d5f",
 		"notificationsErrorIcon.foreground": "#cf222e",
@@ -165,8 +170,9 @@
 		 * Panel
 		 */
 		"panel.border": "#bebdbb",
-		"panelInput.border": "#ccc5c3",
-		"panelTitle.activeBorder": "#0062c2",
+		"panel.background": "#c9ccc9",
+		"panelInput.border": "#ccc5c300",
+		"panelTitle.activeBorder": "#0062c200",
 		"panelTitle.activeForeground": "#5d5d5f",
 		"panelTitle.inactiveForeground": "#57606a75",
 
@@ -182,7 +188,7 @@
 		/**
 		 * Scrollbar
 		 */
-		"scrollbar.shadow": "#6e778133",
+		"scrollbar.shadow": "#6e778100",
 		"scrollbarSlider.activeBackground": "#8c959f47",
 		"scrollbarSlider.background": "#8c959f33",
 		"scrollbarSlider.hoverBackground": "#8c959f3d",
@@ -211,6 +217,7 @@
 		"statusBarItem.prominentBackground": "#afb8c133",
 		"statusBarItem.remoteBackground": "#0062c2",
 		"statusBarItem.remoteForeground": "#eaeef2", // Default
+
 		"symbolIcon.arrayForeground": "#953800",
 		"symbolIcon.booleanForeground": "#0550ae",
 		"symbolIcon.classForeground": "#953800",
@@ -258,6 +265,11 @@
 		/**
 		 * Terminal
 		 */
+		"terminal.background": "#282d39",
+		"terminal.foreground": "#b9bbb9",
+		"terminal.border": "#526d8b",
+		"terminalCursor.foreground": "#c9ccc9",
+		/* Terminal colors */
 		"terminal.ansiBlack": "#5d5d5f",
 		"terminal.ansiBlue": "#0969da",
 		"terminal.ansiBrightBlack": "#57606a",
@@ -274,7 +286,7 @@
 		"terminal.ansiRed": "#cf222e",
 		"terminal.ansiWhite": "#6e7781",
 		"terminal.ansiYellow": "#4d2d00",
-		"terminal.foreground": "#5d5d5f",
+
 		"textBlockQuote.background": "#f6f8fa",
 		"textBlockQuote.border": "#ccc5c3",
 		"textCodeBlock.background": "#afb8c133",
@@ -292,6 +304,7 @@
 		"titleBar.inactiveForeground": "#87909a",
 
 		"tree.indentGuidesStroke": "#d8dee4",
+
 		//"activityBar.dropBorder": "#5d5d5f",
 		//"banner.background": "#71819133",
 		//"banner.foreground": "#5d5d5f",
