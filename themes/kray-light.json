@@ -136,14 +136,14 @@
 		/**
 		 * List
 		 */
-		"list.activeSelectionBackground": "#6ba0f950",
+		"list.activeSelectionBackground": "#b0bac2",
 		"list.activeSelectionForeground": "#5d5d5f",
-		"list.focusBackground": "#6ba0f950",
+		"list.focusBackground": "#a0b2c350",
 		"list.focusForeground": "#5d5d5f",
 		"list.hoverBackground": "#ebe5e299",
 		"list.focusOutline": "#00000000",
-		"list.inactiveFocusBackground": "#6ba0f950",
-		"list.inactiveSelectionBackground": "#6ba0f950",
+		"list.inactiveFocusBackground": "#b0bac2",
+		"list.inactiveSelectionBackground": "#b0bac2",
 
 		"search.resultsInfoForeground": "#87909a",
 		"searchEditor.findMatchBackground": "#ff0000",
@@ -181,7 +181,7 @@
 		 * Quick Input
 		 */
 		"quickInput.background": "#dcdad7", // Editor
-		"quickInputList.focusBackground": "#6ba0f950",
+		"quickInputList.focusBackground": "#bec8d0",
 		"quickInputList.focusForeground": "#24292f",
 		/**
 		 * Scrollbar
@@ -252,14 +252,17 @@
 		/**
 		 * Tab
 		 */
-		"tab.activeBackground": "#6ba0f950",
+		"editorGroupHeader.tabsBorder": "#b1b1b190",
+		"tab.activeBorder": "#dcdad7",
 		"tab.unfocusedInactiveBackground": "#c8c8c8",
 		"tab.unfocusedActiveBackground": "#dcdad7",
 		"tab.activeForeground": "#5d5d5f",
-		"tab.border": "#b8b8b800",
+		"tab.border": "#b1b1b1",
 		"tab.hoverBackground": "#dcdad7",
 		"tab.inactiveBackground": "#c8c8c8",
 		"tab.inactiveForeground": "#57606a",
+		"tab.inactiveModifiedBorder": "#ff0000",
+		"tab.unfocusedActiveBorder": "#dcdad7",
 		/**
 		 * Terminal
 		 */
