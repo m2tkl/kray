@@ -5,18 +5,18 @@
 		/**
 		 * Activity bar
 		 */
-		"activityBar.activeBorder": "#00aaff",
+		"activityBar.activeBorder": "#a0b2c3",
 		"activityBar.background": "#24292f",
-		"activityBar.activeBackground": "#00537d75",
-		"activityBar.foreground": "#00aaff",
-		"activityBar.inactiveForeground": "#57606a",
+		"activityBar.activeBackground": "#a0b2c325",
+		"activityBar.foreground": "#a0b2c3",
+		"activityBar.inactiveForeground": "#6a7480",
 
-		"activityBarBadge.background": "#0969da",
-		"activityBarBadge.foreground": "#ffffff",
+		"activityBarBadge.background": "#a0b2c3",
+		"activityBarBadge.foreground": "#2c2c2c",
 		/**
 		 * Badge
 		 */
-		"badge.background": "#0969da",
+		"badge.background": "#51575d",
 		"badge.foreground": "#ffffff",
 		/**
 		 * Breadcrum
@@ -28,9 +28,9 @@
 		/**
 		 * Button
 		 */
-		"button.background": "#0969da",
+		"button.background": "#414a54",
 		"button.foreground": "#ffffff",
-		"button.hoverBackground": "#0062cd",
+		"button.hoverBackground": "#33363a",
 		"button.secondaryBackground": "#ebecf0",
 		"button.secondaryForeground": "#5d5d5f",
 		"button.secondaryHoverBackground": "#f3f4f6",
@@ -126,7 +126,7 @@
 		"gitDecoration.ignoredResourceForeground": "#6e7781aa",
 		"gitDecoration.modifiedResourceForeground": "#bd6e07",
 		"gitDecoration.submoduleResourceForeground": "#57606a",
-		"gitDecoration.untrackedResourceForeground": "#337c8e",
+		"gitDecoration.untrackedResourceForeground": "#0e6a81",
 		"icon.foreground": "#57606a",
 		"input.background": "#dcdad7",
 		"input.foreground": "#5d5d5f",
@@ -213,8 +213,8 @@
 		"statusBarItem.focusBorder": "#0969da",
 		"statusBarItem.hoverBackground": "#5d5d5f14",
 		"statusBarItem.prominentBackground": "#afb8c133",
-		"statusBarItem.remoteBackground": "#0062c2",
-		"statusBarItem.remoteForeground": "#eaeef2", // Default
+		"statusBarItem.remoteBackground": "#a0b2c3",
+		"statusBarItem.remoteForeground": "#2c2c2c", // Default
 
 		"symbolIcon.arrayForeground": "#953800",
 		"symbolIcon.booleanForeground": "#0550ae",
@@ -299,6 +299,12 @@
 		"titleBar.activeForeground": "#87909a",
 		"titleBar.inactiveBackground": "#24292f",
 		"titleBar.inactiveForeground": "#87909a",
+		/**
+		 * CommandCenter
+		 */
+		"commandCenter.background": "#111111",
+		"commandCenter.border": "#00000000",
+		"commandCenter.inactiveBorder": "#00000000",
 
 		"tree.indentGuidesStroke": "#d8dee4",
 
@@ -873,7 +879,9 @@
 		{
 			"scope": "string.quoted",
 			"settings": {
-				"foreground": "#32a198"
+				// "foreground": "#32a198"
+				"foreground": "#0da80a"
+				// "foreground": "#b17221"
 			}
 		},
 		// Function definition
