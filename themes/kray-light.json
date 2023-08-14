@@ -270,6 +270,8 @@
 		"terminal.foreground": "#b9bbb9",
 		"terminal.border": "#526d8b",
 		"terminalCursor.foreground": "#c8c8c8",
+		"terminal.tab.activeBorder": "#282d3900",
+
 		/* Terminal colors */
 		"terminal.ansiBlack": "#5d5d5f",
 		"terminal.ansiBlue": "#0969da",
